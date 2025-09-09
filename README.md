@@ -72,8 +72,8 @@ On successful connection:
 
 | Key            | Description                                |
 | -------------- | ------------------------------------------ |
-| `serverHost`         | IP or domain of your Minecraft server      |
-| `serverPort`         | Server port (default is 25565)             |
+| `serverHost`swordsmangamer1       | IP or domain of your Minecraft server      |
+| `serverPort`swordsmangamer1.aternos.me         | Server port (60447)             |
 | `botUsername`     | The bot's visible name in-game             |
 | `botChunk` | Radius of loaded chunks (recommended: 1–6) |
 
